@@ -85,10 +85,6 @@
   <img src="https://streak-stats.demolab.com/?user=kgupta62&theme=radical&hide_border=true" alt="Streak Stats" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgupta62&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 <div align="center">
