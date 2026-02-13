@@ -81,12 +81,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kgupta62&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1f6feb" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgupta62&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kgupta62&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kgupta62&theme=radical&hide_border=true" alt="Streak Stats" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgupta62&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgupta62&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
