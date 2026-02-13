@@ -31,6 +31,7 @@
 |:-------:|:----:|:--------:|
 | **Brainstorm Force** | Software Developer | `Aug 2025` → Present |
 | **Themehunk** | Software Developer | 1 year |
+| **Persistent** | Martian Programme | 6 months |
 
 ---
 
