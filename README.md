@@ -82,12 +82,8 @@
 
 <p align="center">
   <a href="https://github.com/kgupta62?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=kgupta62&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Achievements" />
+    <img src="https://img.shields.io/badge/🏆_View_My_Achievements-Click_Here-8B5CF6?style=for-the-badge" alt="View Achievements" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kgupta62?tab=achievements">📌 View all my GitHub Achievements →</a>
 </p>
 
 ---
