@@ -1,0 +1,98 @@
+<div align="center">
+
+# 👋 Hi, I'm Kuber Gupta
+
+![Profile Views](https://komarev.com/ghpvc/?username=kgupta62&color=0e75b6&style=flat&label=Profile+Views)
+
+**Software Developer** at **Brainstorm Force** · Building Suredash, SureMembers & Presto Player  
+*Passionate about UI/UX, Backend & WordPress*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuber-gupta-25752b1ab/)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```text
+🎯 Role      → Software Developer @ Brainstorm Force
+📦 Building  → Suredash · SureMembers · Presto Player
+💡 Interests → UI/UX · Backend · WordPress
+🎓 Education → IIT Madras (BS, ongoing) · LNCT Bhopal (BTech)
+☕ Fun Fact  → Code by day, coffee by night — learning at IITM while shipping products!
+```
+
+---
+
+## 💼 Experience
+
+| Company | Role | Duration |
+|:-------:|:----:|:--------:|
+| **Brainstorm Force** | Software Developer | `Aug 2025` → Present |
+| **Themehunk** | Software Developer | 1 year |
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,php,cpp,mongodb,mysql,git,docker" alt="Tech Stack" />
+</p>
+
+<details>
+<summary>📋 View detailed stack</summary>
+
+| Frontend | Backend | Databases | Tools |
+|:--------:|:-------:|:---------:|:-----:|
+| HTML · CSS · JavaScript | Node.js · Python · PHP | SQL · MongoDB | Git · Docker |
+| React · Next.js | Express · WordPress | | |
+| | C / C++ · DSA | | |
+
+</details>
+
+---
+
+## 📌 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Work
+- 🎯 **Suredash** — Analytics & dashboards
+- 📧 **SureMembers** — Email & membership
+- 🎬 **Presto Player** — Video player solution
+
+</td>
+<td width="50%">
+
+### 🧑‍💻 Personal
+- 📝 **Question Tracker** — Track & manage questions
+- 🔖 **Bookmark App** — Save & organize bookmarks
+- 🎓 **Intershala** — Learning platform project
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kgupta62&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1f6feb" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgupta62&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B" alt="Streak Stats" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgupta62&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *From Kuber Gupta with ❤️*
+
+</div>
