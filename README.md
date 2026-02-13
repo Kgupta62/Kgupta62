@@ -78,6 +78,20 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <a href="https://github.com/kgupta62?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=kgupta62&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Achievements" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kgupta62?tab=achievements">📌 View all my GitHub Achievements →</a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
